@@ -3,7 +3,7 @@ import QtQuick.Window
 
 Rectangle {
     id: root
-    color: "#161616"
+    color: "#000000"
     property int stage
 
     onStageChanged: {
@@ -43,7 +43,7 @@ Rectangle {
 
         AnimatedImage {
             id: face
-            source: "images/cat.gif"
+            source: "images/kuro_oled.gif"
             paused: false
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.verticalCenter: parent.verticalCenter

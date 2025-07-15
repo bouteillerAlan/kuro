@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "a2n.dev@pm.me",
+                "Name": "Bouteiller <a2n> Alan"
+            }
+        ],
+        "Category": "",
+        "Description": "Wake up your pc with Kuro the cat",
+        "Id": "a2n.kuro.oled",
+        "License": "GPLv3",
+        "Name": "Kuro Oled",
+        "Website": "https://github.com/bouteillerAlan/kuro"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;Oled;",
+    "X-Plasma-APIVersion": "2"
+}
+

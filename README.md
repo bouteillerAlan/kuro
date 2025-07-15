@@ -7,6 +7,8 @@
 </p>
 <h1 align="center">Kuro <i>- a plasma splashscreen</i></h1>
 
+<img alt="Static Badge" src="https://img.shields.io/badge/Still_maintened-Yes_%3A)-green">
+
 ## Description
 
 Wake up your pc with Kuro the cat
@@ -17,8 +19,9 @@ My own code for replacing [kuro](https://github.com/KartikSindura/kuro) that it 
 
 ## Installation
 
-- Download via [the KDE store](https://www.pling.com/p/2135195/)
-- Install it via the splashscreen plugin ("get new ..." button into System Setting > Colors & Themes > Splash Screen)
+- Download via [the KDE store](https://www.pling.com/p/2135195/), this version is colored with #161616
+- You can find a deep black version (#000000) [here](https://www.pling.com/p/2302404/)
+- Both of the version can be installed via the splashscreen plugin ("get new ..." button into System Setting > Colors & Themes > Splash Screen)
 - Download the last release and extract it (or clone the repo and copy the `a2n.kuro` folder) and place the folder into `~/.local/share/plasma/look-and-feel/`
 
 ## Code of conduct, license, authors, changelog, contributing
@@ -26,7 +29,6 @@ My own code for replacing [kuro](https://github.com/KartikSindura/kuro) that it 
 See the following file :
 - [code of conduct](CODE_OF_CONDUCT.md)
 - [license](LICENSE)
-- [authors](AUTHORS)
 - [contributing](CONTRIBUTING.md)
 - [changelog](CHANGELOG)
 - [security](SECURITY.md)
