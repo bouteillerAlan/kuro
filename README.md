@@ -24,6 +24,12 @@ My own code for replacing [kuro](https://github.com/KartikSindura/kuro) that it 
 - Both of the version can be installed via the splashscreen plugin ("get new ..." button into System Setting > Colors & Themes > Splash Screen)
 - Download the last release and extract it (or clone the repo and copy the `a2n.kuro` folder) and place the folder into `~/.local/share/plasma/look-and-feel/`
 
+Or install with aur helper on Arch-based distro:
+
+```bash
+paru -S plasma6-splashscreen-kuro-git
+```
+
 ## Code of conduct, license, authors, changelog, contributing
 
 See the following file :
